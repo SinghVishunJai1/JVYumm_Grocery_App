@@ -1,0 +1,25 @@
+<resources>
+
+    //Main page items
+    <string name="app_name">JVYumm</string>
+    <string name="sweettooth">Sweet Tooth</string>
+    <string name="stationary">Stationary</string>
+    <string name="PetFood">Pet Food</string>
+    <string name="PackagedFood">Packaged Food</string>
+    <string name="Munchies">Munchies</string>
+    <string name="KitchenEssentials">Kitchen Essentials</string>
+    <string name="FreshVegetables">Fresh Vegetables</string>
+    <string name="CleaningEssentials">Cleaning Essentials</string>
+    <string name="BreadAndBiscuits">Bread and Biscuits</string>
+    <string name="Beverages">Beverages</string>
+    <string name="BathAndBody">Bath and Body</string>
+    <string name="FreshFruits">Fresh Fruits</string>
+
+    <string name="shimala_apple">Shimla Apple</string>
+    <string name="papaya_semi_ripe">Papaya Semi Ripe</string>
+    <string name="pomegranate">Pomegranate</string>
+    <string name="banana_robusta">Banana Robusta</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pepsi">Pepsi Can</string>
+
+</resources>

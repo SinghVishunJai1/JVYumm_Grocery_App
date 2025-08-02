@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "367006973971",
+    "firebase_url": "https://jvyum-b74bc-default-rtdb.firebaseio.com",
+    "project_id": "jvyum-b74bc",
+    "storage_bucket": "jvyum-b74bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367006973971:android:fc9c751c7886ea4129bfe6",
+        "android_client_info": {
+          "package_name": "com.appdev.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6rhdT_RV5Mb0OvMF2Prt7dBEU0paZdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367006973971:android:79e404028455b77529bfe6",
+        "android_client_info": {
+          "package_name": "com.example.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6rhdT_RV5Mb0OvMF2Prt7dBEU0paZdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
